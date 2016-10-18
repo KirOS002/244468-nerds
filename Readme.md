@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Kirill Bugaev](https://up.htmlacademy.ru/htmlcss/15/user/244468).
-* Наставник: `Александр`.
+* Наставник: [Александр Кошара] (https://htmlacademy.ru/profile/sk0tti).
 
 ---
 
